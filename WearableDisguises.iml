@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module org.jetbrains.idea.maven.project.MavenProjectsManager.isMavenModule="true" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="3" platform="JVM 1.6" allPlatforms="JVM [1.6]">
+        <compilerSettings />
+        <compilerArguments />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/target/classes" />
+    <output-test url="file://$MODULE_DIR$/target/test-classes" />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/resources" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/resources" type="java-test-resource" />
+      <excludeFolder url="file://$MODULE_DIR$/target" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: commons-lang:commons-lang:2.6" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.guava:guava:21.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: com.google.code.gson:gson:2.8.0" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: net.md-5:bungeecord-chat:1.13-SNAPSHOT" level="project" />
+    <orderEntry type="library" scope="PROVIDED" name="Maven: org.yaml:snakeyaml:1.23" level="project" />
+    <orderEntry type="library" name="jsr305" level="project" />
+    <orderEntry type="library" name="asm-5.0.3" level="project" />
+    <orderEntry type="library" name="netty-buffer-4.1.38.Final" level="project" />
+    <orderEntry type="library" name="netty-codec-4.1.38.Final" level="project" />
+    <orderEntry type="library" name="cglib-nodep-3.2.4" level="project" />
+    <orderEntry type="library" name="javax.annotation-api-1.3.2" level="project" />
+    <orderEntry type="library" name="guava-25.1-jre" level="project" />
+    <orderEntry type="library" name="plexus-utils-3.0.22" level="project" />
+    <orderEntry type="library" name="junit-4.12" level="project" />
+    <orderEntry type="library" name="snakeyaml-1.24" level="project" />
+    <orderEntry type="library" name="BukkitExecutors-1.1-SNAPSHOT" level="project" />
+    <orderEntry type="library" name="commons-lang3-3.1" level="project" />
+    <orderEntry type="library" name="LibsDisguises-10.0.15-Premium" level="project" />
+    <orderEntry type="library" name="LibsDisguises-10.0.15-Premium1" level="project" />
+    <orderEntry type="library" name="ArmorEquipEvent-1.7.5" level="project" />
+    <orderEntry type="library" name="spigot-api-1.16.1-R0.1-SNAPSHOT" level="project" />
+  </component>
+</module>

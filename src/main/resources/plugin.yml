@@ -1,0 +1,11 @@
+name: Wearables
+version: 4.01
+main: darth.wearabledisguises.WearableDisguises
+api-version: 1.14
+depend: [ProtocolLib, LibsDisguises]
+authors: [Darthkota98]
+description: Allow's adding lib disguises to items!
+commands:
+  wad:
+    description: Add a disguise to a helmet!
+    usage: /wad

@@ -1,0 +1,51 @@
+Manifest-Version: 1.0
+Class-Path: ProtocolLib-4.4.0-SNAPSHOT.jar ProtocolLib-API-4.4.0-SNAPSHO
+ T.jar snakeyaml-1.24.jar craftbukkit-1.14.4-R0.1-SNAPSHOT.jar jsr305.ja
+ r plexus-utils-3.0.22.jar junit-4.12.jar ini4j-0.5.5-2.jar gson-2.8.5.j
+ ar javac2.jar kotlin-stdlib-jdk8-1.3.31.jar platform-ide-util-io.jar mi
+ croba.jar batik-svggen-1.12.0-8.jar xercesImpl-2.12.0.jar annotations.j
+ ar platform-util-ui.jar proxy-vole-1.0.5-jb.2.jar batik-transcoder-1.12
+ .0-8.jar kotlin-reflect-1.3.31.jar oro-2.0.8.jar imageio-tiff-3.4.1.jar
+  batik-svg-dom-1.12.0-8.jar platform-objectSerializer-annotations.jar j
+ shell-frontend.jar rhino-1.7.11.jar miglayout-core-5.2.jar idea_rt.jar 
+ batik-bridge-1.12.0-8.jar platform-impl.jar idea.jar extensions.jar jin
+ g-20030619.jar imageio-core-3.4.1.jar commons-compress-1.18.jar groovy-
+ all-2.4.17.jar intellij-xml.jar commons-net-3.6.jar batik-util-1.12.0-8
+ .jar slf4j-api-1.7.25.jar common-lang-3.4.1.jar javax.activation-1.2.0.
+ jar commons-logging-1.2.jar isorelax-20030108.jar images.jar cli-parser
+ -1.1.5.jar batik-ext-1.12.0-8.jar java-utils-1.0.5.jar swingx-core-1.6.
+ 2-2.jar kotlin-test-1.3.31.jar istack-commons-runtime-3.0.7.jar platfor
+ m-objectSerializer.jar kotlinx-coroutines-jdk8-1.2.1.jar bootstrap.jar 
+ batik-anim-1.12.0-8.jar automaton-1.12-1.jar hamcrest-core-1.3.jar java
+ x.annotation-api-1.3.2.jar forms_rt.jar txw2-2.3.1.jar batik-gvt-1.12.0
+ -8.jar credential-store.jar common-image-3.4.1.jar dbus-java-3.0.2.jar 
+ objenesis-3.0.1.jar miglayout-swing-5.2.jar jsr305.jar platform-concurr
+ ency.jar nekohtml-1.9.22.jar FastInfoset-1.2.15.jar kotlin-stdlib-jdk7-
+ 1.3.31.jar intellij-dvcs.jar jetCheck-0.2.1.jar jcip-annotations-1.0.ja
+ r trilead-ssh2-build-217-jenkins-14.jar commons-imaging-1.0-RC-1.jar pu
+ rejavacomm-0.0.11.1.jar error_prone_annotations-2.3.1.jar commons-colle
+ ctions-3.2.2.jar common-io-3.4.1.jar util.jar ion-java-1.5.0-1.jar jaxb
+ -api-2.3.1.jar trove4j.jar kotlin-stdlib-1.3.31.jar jaxb-runtime-2.3.1.
+ jar trang-core.jar spellchecker.jar intellij-coverage-agent-1.0.508.jar
+  cglib-nodep-3.2.4.jar lz4-java-1.6.0.jar stax-api-1.0.1.jar batik-pars
+ er-1.12.0-8.jar snakeyaml-1.24.jar jdom.jar imgscalr-lib-4.2.jar eddsa-
+ 0.2.0.jar forms-1.1-preview.jar nanoxml-2.2.3.jar commons-io-2.6.jar js
+ on.jar stax-ex-1.8.jar external-system-rt.jar kryo-2.24.0.jar platform-
+ api.jar picocontainer-1.2.jar batik-awt-util-1.12.0-8.jar commons-httpc
+ lient-3.1-patched.jar batik-css-1.12.0-8.jar configuration-store-impl.j
+ ar streamex-0.6.8.jar jsch-0.1.55.jar platform-util-ex.jar commons-code
+ c-1.13.jar built-in-server.jar imageio-metadata-3.4.1.jar velocity-1.7.
+ jar batik-dom-1.12.0-8.jar rngom-20051226-patched.jar intellij-test-dis
+ covery-agent-1.0.508.jar minlog-1.2.jar winp-1.28.jar commons-lang-2.4.
+ jar sqlite-jdbc-3.21.0.1.jar protobuf-java-3.5.1.jar batik-constants-1.
+ 12.0-8.jar slf4j-log4j12-1.7.25.jar jps-model.jar platform-core-ui.jar 
+ junit.jar jaxen-1.2.0.jar xml-apis-ext-1.3.04.jar openapi.jar jna-platf
+ orm.jar asm-all-7.0.1.jar kotlinx-coroutines-core-1.2.1.jar java-compat
+ ibility-1.0.1.jar log4j.jar markdownj-core-0.4.2-SNAPSHOT.jar batik-xml
+ -1.12.0-8.jar jbcrypt-1.0.0.jar jna.jar javassist-3.22.0-GA.jar xml-res
+ olver-1.2.jar xmlbeans-2.6.0.jar xmlgraphics-commons-2.3.jar xmlpull-1.
+ 1.3.1.jar xmlrpc-2.0.1.jar xstream-1.4.11.1.jar xpp3_min-1.1.4c.jar xz-
+ 1.8.jar junit-4.12.jar cglib-nodep-3.2.4.jar spigot-api-1.14.4-R0.1-SNA
+ PSHOT.jar commons-lang3-3.1.jar javax.annotation-api-1.3.2.jar BukkitEx
+ ecutors-1.1-SNAPSHOT.jar LibsDisguises-9.8.6.jar
+
